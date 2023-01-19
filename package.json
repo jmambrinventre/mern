@@ -1,0 +1,26 @@
+{
+  "name": "react-lecciones",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --watch server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmambrinventre/node-react-lecciones.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmambrinventre/node-react-lecciones/issues"
+  },
+  "homepage": "https://github.com/jmambrinventre/node-react-lecciones#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-myconnection": "^1.0.4",
+    "mysql": "^2.18.1"
+  }
+}
